@@ -1,0 +1,1431 @@
+{
+  "metadata": {
+    "total_tweets": 47,
+    "fecha_analisis": "2025-11-05 19:43:35",
+    "estadisticas": {
+      "sentimientos": {
+        "NEU": 9,
+        "POS": 19,
+        "NEG": 19
+      },
+      "emociones": {
+        "others": 25,
+        "joy": 13,
+        "anger": 7,
+        "sadness": 2
+      }
+    }
+  },
+  "tweets": [
+    {
+      "id": "1986129253008621669",
+      "texto": "Nuevo plan de choque en vivienda:\n\nAumento de la oferta de vivienda protegida en el mismo plan urbanístico.\n\nA las oficinas se suman alojamientos hoteleros como vivienda protegida.\n\nAumento de los avales para entradas a personas de hasta 50 años.\n\nAumento viviendas de la Agencia https://t.co/jFigVZ4JqB",
+      "fecha": "2025-11-05 17:51:29",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 238,
+      "retweets": 70,
+      "respuestas": 25,
+      "sentimiento": "NEU",
+      "sentimiento_confianza": 0.7542755007743835,
+      "sentimiento_scores": {
+        "NEG": 0.0412200391292572,
+        "NEU": 0.7542755007743835,
+        "POS": 0.20450446009635925
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9895142316818237,
+      "emocion_scores": {
+        "others": 0.9895142316818237,
+        "joy": 0.0007624069112353027,
+        "sadness": 0.0022959287744015455,
+        "anger": 0.00246129441075027,
+        "surprise": 0.003308015177026391,
+        "disgust": 0.0005662305047735572,
+        "fear": 0.0010918111074715853
+      }
+    },
+    {
+      "id": "1985788984576840177",
+      "texto": "Hoy ha sido un día completo con el inmenso honor de haber recibido a:\n\n- José Augusto Duarte, embajador de Portugal.\n\n- Eduardo Calvo, presidente de @fmdi_es.\n\n- Marcos, que a sus 14 años tiene gran vocación política.\n\n- Y a Álvaro Gil, un chico maravilloso con discapacidad que, https://t.co/qeojdwdtYD",
+      "fecha": "2025-11-04 19:19:22",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 839,
+      "retweets": 133,
+      "respuestas": 152,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.9671400189399719,
+      "sentimiento_scores": {
+        "NEG": 0.007372566498816013,
+        "NEU": 0.025487415492534637,
+        "POS": 0.9671400189399719
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.995810866355896,
+      "emocion_scores": {
+        "others": 0.002171323401853442,
+        "joy": 0.995810866355896,
+        "sadness": 0.0005544599262066185,
+        "anger": 0.00014237339200917631,
+        "surprise": 0.0007242736173793674,
+        "disgust": 0.0003515213029459119,
+        "fear": 0.00024526409106329083
+      }
+    },
+    {
+      "id": "1985729706776199248",
+      "texto": "Los enfermos de ELA contarán en el Hospital Santa Cristina con grandes habitaciones individuales y todo el material para que ellos y sus familias estén lo mejor atendidos.\n\nGracias a tantos profesionales.\nY como nos decían hoy los pacientes: ¡Viva la vida! No cabe mayor dignidad. https://t.co/YGjktAq27K",
+      "fecha": "2025-11-04 15:23:49",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 2496,
+      "retweets": 549,
+      "respuestas": 209,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.952078104019165,
+      "sentimiento_scores": {
+        "NEG": 0.006365411914885044,
+        "NEU": 0.04155650734901428,
+        "POS": 0.952078104019165
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.997337281703949,
+      "emocion_scores": {
+        "others": 0.0008068829774856567,
+        "joy": 0.997337281703949,
+        "sadness": 0.00031484756618738174,
+        "anger": 0.00025560701033100486,
+        "surprise": 0.0006486022612079978,
+        "disgust": 0.0004246143507771194,
+        "fear": 0.00021220110647846013
+      }
+    },
+    {
+      "id": "1985695734075670671",
+      "texto": "¿Qué queda por corromper en el Sanchismo? https://t.co/dkFeAjWDIB",
+      "fecha": "2025-11-04 13:08:50",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 2225,
+      "retweets": 596,
+      "respuestas": 556,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.8524172902107239,
+      "sentimiento_scores": {
+        "NEG": 0.8524172902107239,
+        "NEU": 0.13822785019874573,
+        "POS": 0.009354840964078903
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9765660762786865,
+      "emocion_scores": {
+        "others": 0.9765660762786865,
+        "joy": 0.0004994834889657795,
+        "sadness": 0.001906388089992106,
+        "anger": 0.0006386288441717625,
+        "surprise": 0.012816399335861206,
+        "disgust": 0.0010527331614866853,
+        "fear": 0.006520083174109459
+      }
+    },
+    {
+      "id": "1985691970807763102",
+      "texto": "No van a parar porque ni la Comunidad Valenciana ni las víctimas son lo importante. \n\nNo van a parar porque sólo quieren el poder. https://t.co/Vfpr01YOQR",
+      "fecha": "2025-11-04 12:53:52",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 5553,
+      "retweets": 1444,
+      "respuestas": 1222,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.8732237219810486,
+      "sentimiento_scores": {
+        "NEG": 0.8732237219810486,
+        "NEU": 0.09821401536464691,
+        "POS": 0.028562290593981743
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.8634223937988281,
+      "emocion_scores": {
+        "others": 0.8634223937988281,
+        "joy": 0.0074746920727193356,
+        "sadness": 0.024163592606782913,
+        "anger": 0.09256769716739655,
+        "surprise": 0.0008255881257355213,
+        "disgust": 0.01046410296112299,
+        "fear": 0.0010819949675351381
+      }
+    },
+    {
+      "id": "1985423789740757283",
+      "texto": "¿Y si empezamos a reencontrarnos, conocernos y amar lo que somos a los dos lados del Atlántico españoles, mejicanos…? \n\nAl margen de los que nos odian, envidian o temen. \n\n@JMZunzu https://t.co/BVyLGbjPSy",
+      "fecha": "2025-11-03 19:08:13",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 5558,
+      "retweets": 1373,
+      "respuestas": 788,
+      "sentimiento": "NEU",
+      "sentimiento_confianza": 0.5658736228942871,
+      "sentimiento_scores": {
+        "NEG": 0.19878017902374268,
+        "NEU": 0.5658736228942871,
+        "POS": 0.23534615337848663
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.7392646074295044,
+      "emocion_scores": {
+        "others": 0.7392646074295044,
+        "joy": 0.060167793184518814,
+        "sadness": 0.18026567995548248,
+        "anger": 0.012240131385624409,
+        "surprise": 0.0008041295222938061,
+        "disgust": 0.004908268339931965,
+        "fear": 0.002349253511056304
+      }
+    },
+    {
+      "id": "1985311486214815812",
+      "texto": "No pararán retorciendo el dolor de las víctimas y del pueblo valenciano porque solo interesa el cálculo político.\n\nEl cálculo que sólo mira hacia un sitio: el que oculta que el Gobierno no actuó ni antes ni después de la DANA; el cálculo que todavía hoy es incapaz de arrimar el",
+      "fecha": "2025-11-03 11:41:58",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 7464,
+      "retweets": 2003,
+      "respuestas": 1749,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.970421314239502,
+      "sentimiento_scores": {
+        "NEG": 0.970421314239502,
+        "NEU": 0.026182422414422035,
+        "POS": 0.0033962614834308624
+      },
+      "emocion": "anger",
+      "emocion_confianza": 0.7132789492607117,
+      "emocion_scores": {
+        "others": 0.004455079790204763,
+        "joy": 0.0008913822821341455,
+        "sadness": 0.20529316365718842,
+        "anger": 0.7132789492607117,
+        "surprise": 0.00045413494808599353,
+        "disgust": 0.07375816255807877,
+        "fear": 0.0018690981669351459
+      }
+    },
+    {
+      "id": "1985252948465819932",
+      "texto": "RT @edatvoficial: ‼️🇲🇽 | Últimas declaraciones del alcalde de Uruapan, Carlos Manzo, asesinado hoy en un acto público. https://t.co/ikKN4Q2…",
+      "fecha": "2025-11-03 07:49:21",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 0,
+      "retweets": 488,
+      "respuestas": 0,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.6954299211502075,
+      "sentimiento_scores": {
+        "NEG": 0.6954299211502075,
+        "NEU": 0.2595490515232086,
+        "POS": 0.045021094381809235
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9842807054519653,
+      "emocion_scores": {
+        "others": 0.9842807054519653,
+        "joy": 0.0009263852844014764,
+        "sadness": 0.006587019190192223,
+        "anger": 0.004365074448287487,
+        "surprise": 0.0015632074791938066,
+        "disgust": 0.0009308549342676997,
+        "fear": 0.0013467493699863553
+      }
+    },
+    {
+      "id": "1985088001118962037",
+      "texto": "Acaban de asesinar a Carlos Manzo, alcalde de la localidad mexicana de Uruapan. \n\nVivía amenazado por los cárteles y abandonado por su Gobierno federal, al que había pedido ayuda para enfrentarse al crimen.\n\nTenía 40 años. Descanse en paz, y quede su ejemplar valentía. https://t.co/ZlRUN1sZ8d",
+      "fecha": "2025-11-02 20:53:55",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 18858,
+      "retweets": 4728,
+      "respuestas": 922,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.9312935471534729,
+      "sentimiento_scores": {
+        "NEG": 0.9312935471534729,
+        "NEU": 0.05205639824271202,
+        "POS": 0.01665002666413784
+      },
+      "emocion": "sadness",
+      "emocion_confianza": 0.9651268124580383,
+      "emocion_scores": {
+        "others": 0.012250777333974838,
+        "joy": 0.001963373040780425,
+        "sadness": 0.9651268124580383,
+        "anger": 0.011732285842299461,
+        "surprise": 0.0003800618869718164,
+        "disgust": 0.007534956559538841,
+        "fear": 0.0010117630008608103
+      }
+    },
+    {
+      "id": "1984302419690275010",
+      "texto": "La tasa de abandono escolar en la Comunidad de Madrid cae al 8,9%, por debajo de los objetivos europeos y de la media nacional. https://t.co/yi3Pkdr8Wc",
+      "fecha": "2025-10-31 16:52:18",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 815,
+      "retweets": 210,
+      "respuestas": 152,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.8170480728149414,
+      "sentimiento_scores": {
+        "NEG": 0.8170480728149414,
+        "NEU": 0.16451075673103333,
+        "POS": 0.018441172316670418
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9390405416488647,
+      "emocion_scores": {
+        "others": 0.9390405416488647,
+        "joy": 0.0013348128413781524,
+        "sadness": 0.03542220592498779,
+        "anger": 0.0038956329226493835,
+        "surprise": 0.008936598896980286,
+        "disgust": 0.0029904451221227646,
+        "fear": 0.008379739709198475
+      }
+    },
+    {
+      "id": "1984248786764640323",
+      "texto": "RT @NunezFeijoo: Lo que Sánchez veía tan normal ayer en la comisión de investigación del Senado no lo es. El Supremo traslada a la Audienci…",
+      "fecha": "2025-10-31 13:19:10",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 0,
+      "retweets": 843,
+      "respuestas": 0,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.6924753785133362,
+      "sentimiento_scores": {
+        "NEG": 0.6924753785133362,
+        "NEU": 0.26855385303497314,
+        "POS": 0.03897082805633545
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9943312406539917,
+      "emocion_scores": {
+        "others": 0.9943312406539917,
+        "joy": 0.00045299268094822764,
+        "sadness": 0.000981913530267775,
+        "anger": 0.0010381062747910619,
+        "surprise": 0.0018695013131946325,
+        "disgust": 0.000402198638767004,
+        "fear": 0.0009240120416507125
+      }
+    },
+    {
+      "id": "1984211376055947736",
+      "texto": "La agresión a José Ismael, de @elespanolcom, es de una brutalidad indescriptible. \n\nEsos grupos organizados no se han formado antes de ayer. No pueden seguir creciendo impunemente.\n\nNuestra solidaridad con José Ismael y todos sus compañeros.",
+      "fecha": "2025-10-31 10:50:31",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 5093,
+      "retweets": 1198,
+      "respuestas": 445,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.9715339541435242,
+      "sentimiento_scores": {
+        "NEG": 0.9715339541435242,
+        "NEU": 0.022483518347144127,
+        "POS": 0.005982519127428532
+      },
+      "emocion": "anger",
+      "emocion_confianza": 0.825117290019989,
+      "emocion_scores": {
+        "others": 0.0024545639753341675,
+        "joy": 0.0005095230299048126,
+        "sadness": 0.008910148404538631,
+        "anger": 0.825117290019989,
+        "surprise": 0.0011184674222022295,
+        "disgust": 0.15992474555969238,
+        "fear": 0.001965227536857128
+      }
+    },
+    {
+      "id": "1983936672011030767",
+      "texto": "La sanidad pública madrileña es lo mejor. \n\nLa terapia con CAR-T ya ha logrado que otros 7 niños con leucemia con recaída, tratados en el Hospital de La Paz, queden libres de la enfermedad.\n\nEsperanza y vida, en esta región capital. https://t.co/SnxpKwd1He",
+      "fecha": "2025-10-30 16:38:57",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 1875,
+      "retweets": 439,
+      "respuestas": 362,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.9328456521034241,
+      "sentimiento_scores": {
+        "NEG": 0.008770146407186985,
+        "NEU": 0.058384183794260025,
+        "POS": 0.9328456521034241
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.9895049333572388,
+      "emocion_scores": {
+        "others": 0.008039011619985104,
+        "joy": 0.9895049333572388,
+        "sadness": 0.0009009703062474728,
+        "anger": 0.00033232264104299247,
+        "surprise": 0.00044053528108634055,
+        "disgust": 0.000512508733663708,
+        "fear": 0.0002698138705454767
+      }
+    },
+    {
+      "id": "1983875620292473141",
+      "texto": "¡La FNAC Callao está de vuelta!\n\nTras su gran reforma, abre esta tarde con el doble de espacio para música, libros, cine, tecnología…\n\nAquí, donde se juntan los caminos: Madrid. https://t.co/KPCAeiUgN4",
+      "fecha": "2025-10-30 12:36:21",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 1282,
+      "retweets": 204,
+      "respuestas": 175,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.9387959837913513,
+      "sentimiento_scores": {
+        "NEG": 0.004519479814916849,
+        "NEU": 0.056684549897909164,
+        "POS": 0.9387959837913513
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.8650595545768738,
+      "emocion_scores": {
+        "others": 0.12926091253757477,
+        "joy": 0.8650595545768738,
+        "sadness": 0.0005311068962328136,
+        "anger": 0.0003004036843776703,
+        "surprise": 0.0037845750339329243,
+        "disgust": 0.00038604982546530664,
+        "fear": 0.0006772613851353526
+      }
+    },
+    {
+      "id": "1983585911289081920",
+      "texto": "La Comunidad de Madrid tiene un proyecto para esta región de todos.\n\n#PresupuestosCM2026 https://t.co/0mJGWozWxn",
+      "fecha": "2025-10-29 17:25:09",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 948,
+      "retweets": 258,
+      "respuestas": 227,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.5413557887077332,
+      "sentimiento_scores": {
+        "NEG": 0.07240072637796402,
+        "NEU": 0.3862435221672058,
+        "POS": 0.5413557887077332
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9764081835746765,
+      "emocion_scores": {
+        "others": 0.9764081835746765,
+        "joy": 0.020759545266628265,
+        "sadness": 0.0003856737748719752,
+        "anger": 0.0005023485282436013,
+        "surprise": 0.0008770300191827118,
+        "disgust": 0.00044495126348920166,
+        "fear": 0.0006222490919753909
+      }
+    },
+    {
+      "id": "1983513987766439957",
+      "texto": "En mitad de la DANA culminaron el último asalto a RTVE y dos mociones de censura, en Chiva y Requena.\n\nComo en pandemia, Sánchez y su izquierda utilizan las desgracias para hacer su agosto y eludir el control parlamentario.\n\nComo hacen los tiranos, vamos.https://t.co/Y0FZzuDla3",
+      "fecha": "2025-10-29 12:39:21",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 5812,
+      "retweets": 1898,
+      "respuestas": 1439,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.9538986086845398,
+      "sentimiento_scores": {
+        "NEG": 0.9538986086845398,
+        "NEU": 0.04050431400537491,
+        "POS": 0.005597074516117573
+      },
+      "emocion": "anger",
+      "emocion_confianza": 0.7940331101417542,
+      "emocion_scores": {
+        "others": 0.09279743582010269,
+        "joy": 0.002195813460275531,
+        "sadness": 0.02033304236829281,
+        "anger": 0.7940331101417542,
+        "surprise": 0.002458542585372925,
+        "disgust": 0.08585098385810852,
+        "fear": 0.002331071300432086
+      }
+    },
+    {
+      "id": "1983472946422411565",
+      "texto": "Nuestro recuerdo a todas las personas que perdieron la vida, a sus familias, y a quienes han perdido lo que tenían. \n\nMadrid y toda España está con vosotros, siempre dispuestos a ayudar. https://t.co/AgIc8zsTXz",
+      "fecha": "2025-10-29 09:56:16",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 2627,
+      "retweets": 504,
+      "respuestas": 594,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.6554118394851685,
+      "sentimiento_scores": {
+        "NEG": 0.6554118394851685,
+        "NEU": 0.15678034722805023,
+        "POS": 0.1878078430891037
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.4982652962207794,
+      "emocion_scores": {
+        "others": 0.05400807037949562,
+        "joy": 0.4982652962207794,
+        "sadness": 0.4396266043186188,
+        "anger": 0.003526996588334441,
+        "surprise": 0.0007090254221111536,
+        "disgust": 0.002734350273385644,
+        "fear": 0.0011296812444925308
+      }
+    },
+    {
+      "id": "1983299752205668695",
+      "texto": "En la Madrid Tech Week se reúnen esta semana en IFEMA más de 470 empresas expositoras, 350 ponentes internacionales y más de 25.000 visitantes profesionales.\n\nSomos una región de tecnología, de inversión, que promueve empleos de alta cualificación.\n\nBienvenidos a Madrid. https://t.co/L8F8QQvZ3T",
+      "fecha": "2025-10-28 22:28:03",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 536,
+      "retweets": 130,
+      "respuestas": 67,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.8946641087532043,
+      "sentimiento_scores": {
+        "NEG": 0.012614114210009575,
+        "NEU": 0.09272178262472153,
+        "POS": 0.8946641087532043
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.8461490273475647,
+      "emocion_scores": {
+        "others": 0.1461803913116455,
+        "joy": 0.8461490273475647,
+        "sadness": 0.000964767939876765,
+        "anger": 0.000617693760432303,
+        "surprise": 0.003959350753575563,
+        "disgust": 0.0009397549438290298,
+        "fear": 0.0011889906600117683
+      }
+    },
+    {
+      "id": "1983242116294947016",
+      "texto": "La campaña contra jueces, fiscales, periodistas, empresarios o adversarios políticos en España, utilizando los recursos del Estado, no tiene precedentes en nuestra democracia. \n\nUn Gobierno a la deriva, sectario y guerracivilista está dispuesto a rompernos, aislarnos https://t.co/R47bsS3OEE",
+      "fecha": "2025-10-28 18:39:02",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 4720,
+      "retweets": 1432,
+      "respuestas": 492,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.9778900742530823,
+      "sentimiento_scores": {
+        "NEG": 0.9778900742530823,
+        "NEU": 0.01870070956647396,
+        "POS": 0.0034092238638550043
+      },
+      "emocion": "anger",
+      "emocion_confianza": 0.8281624913215637,
+      "emocion_scores": {
+        "others": 0.002840703818947077,
+        "joy": 0.0006271142628975213,
+        "sadness": 0.007426712196320295,
+        "anger": 0.8281624913215637,
+        "surprise": 0.0004350234812591225,
+        "disgust": 0.15874309837818146,
+        "fear": 0.0017648199573159218
+      }
+    },
+    {
+      "id": "1983229902934389159",
+      "texto": "Nuevo Palacio de Justicia de Torrejón de Ardoz, que une sus antiguos juzgados para más de 230.000 ciudadanos y los profesionales de la Justicia de 11 municipios.\n\nEstamos realizando la mayor inversión de nuestra historia para la independencia de este poder del Estado. https://t.co/kr0NK8A1zQ",
+      "fecha": "2025-10-28 17:50:30",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 663,
+      "retweets": 144,
+      "respuestas": 75,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.7697709202766418,
+      "sentimiento_scores": {
+        "NEG": 0.049023427069187164,
+        "NEU": 0.181205615401268,
+        "POS": 0.7697709202766418
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9910076260566711,
+      "emocion_scores": {
+        "others": 0.9910076260566711,
+        "joy": 0.004779556766152382,
+        "sadness": 0.00117348728235811,
+        "anger": 0.0005650983657687902,
+        "surprise": 0.0017675913404673338,
+        "disgust": 0.0002887481823563576,
+        "fear": 0.0004179573734290898
+      }
+    },
+    {
+      "id": "1983135877028053462",
+      "texto": "Denunciamos la deriva bolivariana a la que el Gobierno de Sánchez quiere llevar a la Justicia en España. https://t.co/OYKWiwFrVd",
+      "fecha": "2025-10-28 11:36:52",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 3457,
+      "retweets": 903,
+      "respuestas": 710,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.9583933353424072,
+      "sentimiento_scores": {
+        "NEG": 0.9583933353424072,
+        "NEU": 0.03450211510062218,
+        "POS": 0.007104464806616306
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.8914892673492432,
+      "emocion_scores": {
+        "others": 0.8914892673492432,
+        "joy": 0.0013135240878909826,
+        "sadness": 0.005802746396511793,
+        "anger": 0.067318394780159,
+        "surprise": 0.004576657433062792,
+        "disgust": 0.017941780388355255,
+        "fear": 0.011557645164430141
+      }
+    },
+    {
+      "id": "1983131636024643957",
+      "texto": "El descarrilamiento del tren de Cercanías es la viva imagen de la gestión de Sánchez en Madrid. https://t.co/di3Ao9JBqI",
+      "fecha": "2025-10-28 11:20:01",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 3868,
+      "retweets": 1040,
+      "respuestas": 600,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.9480249285697937,
+      "sentimiento_scores": {
+        "NEG": 0.9480249285697937,
+        "NEU": 0.04237620159983635,
+        "POS": 0.009598861448466778
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9838000535964966,
+      "emocion_scores": {
+        "others": 0.9838000535964966,
+        "joy": 0.00046183777158148587,
+        "sadness": 0.0025195558555424213,
+        "anger": 0.004262208938598633,
+        "surprise": 0.005679648369550705,
+        "disgust": 0.0016908337129279971,
+        "fear": 0.0015858144033700228
+      }
+    },
+    {
+      "id": "1982902731968000458",
+      "texto": "Todo lo mejor para Extremadura, que va a elecciones en busca de un gobierno en libertad, estable, que no esté preso de bloqueos que siempre perjudican a los ciudadanos.\n\n@MGuardiolaM, ¡contigo! https://t.co/LFuy4eodcS",
+      "fecha": "2025-10-27 20:10:26",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 2684,
+      "retweets": 530,
+      "respuestas": 416,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.6535196900367737,
+      "sentimiento_scores": {
+        "NEG": 0.17939579486846924,
+        "NEU": 0.16708452999591827,
+        "POS": 0.6535196900367737
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.9777204990386963,
+      "emocion_scores": {
+        "others": 0.017957916483283043,
+        "joy": 0.9777204990386963,
+        "sadness": 0.0007374026463367045,
+        "anger": 0.0013107178965583444,
+        "surprise": 0.0005053113563917577,
+        "disgust": 0.0012260490329936147,
+        "fear": 0.0005420873640105128
+      }
+    },
+    {
+      "id": "1982901073908994092",
+      "texto": "Desde hace unos años hay una campaña orquestada contra los autónomos españoles. \n\nPretenden promover una lucha de clases contra la clase media, contra la propiedad y la empresa (y por tanto la libertad), para volvernos dependientes y culpar a unos de los fracasos de otros.\n\nFruto https://t.co/UllYrc360m",
+      "fecha": "2025-10-27 20:03:51",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 2385,
+      "retweets": 605,
+      "respuestas": 384,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.9672149419784546,
+      "sentimiento_scores": {
+        "NEG": 0.9672149419784546,
+        "NEU": 0.02827811986207962,
+        "POS": 0.004506865981966257
+      },
+      "emocion": "anger",
+      "emocion_confianza": 0.904695987701416,
+      "emocion_scores": {
+        "others": 0.016155002638697624,
+        "joy": 0.0009295174386352301,
+        "sadness": 0.011768639087677002,
+        "anger": 0.904695987701416,
+        "surprise": 0.00035176423261873424,
+        "disgust": 0.06467889249324799,
+        "fear": 0.0014201862504705787
+      }
+    },
+    {
+      "id": "1981739927504138421",
+      "texto": "RT @Madridonasangre: ❣️ Te esperamos en la Real Casa de Correos, en el Maratón Madrid #DonaSangre #DonaPlasma.\n\n👉 Hoy viernes estaremos has…",
+      "fecha": "2025-10-24 15:09:52",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 0,
+      "retweets": 106,
+      "respuestas": 0,
+      "sentimiento": "NEU",
+      "sentimiento_confianza": 0.6693450212478638,
+      "sentimiento_scores": {
+        "NEG": 0.06358855962753296,
+        "NEU": 0.6693450212478638,
+        "POS": 0.2670663893222809
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.6908080577850342,
+      "emocion_scores": {
+        "others": 0.6908080577850342,
+        "joy": 0.30288729071617126,
+        "sadness": 0.0014187854249030352,
+        "anger": 0.001056986628100276,
+        "surprise": 0.00212300312705338,
+        "disgust": 0.0007738317362964153,
+        "fear": 0.0009319772943854332
+      }
+    },
+    {
+      "id": "1981697077676798005",
+      "texto": "La Comunidad de Madrid hace historia acogiendo en 2026 a la Fórmula E y a la Fórmula 1.\n\nEl 21 de marzo correrá en el @Circuito_Jarama el coche eléctrico más avanzado del mundo.\n\nMadrid es deporte, innovación, libertad. \n\n#MadridEPrix https://t.co/I8o0hNfzV2",
+      "fecha": "2025-10-24 12:19:36",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 1249,
+      "retweets": 260,
+      "respuestas": 420,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.8176929950714111,
+      "sentimiento_scores": {
+        "NEG": 0.024897543713450432,
+        "NEU": 0.15740947425365448,
+        "POS": 0.8176929950714111
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.9897401332855225,
+      "emocion_scores": {
+        "others": 0.008567842654883862,
+        "joy": 0.9897401332855225,
+        "sadness": 0.00022341667499858886,
+        "anger": 0.0001722875895211473,
+        "surprise": 0.000778412853833288,
+        "disgust": 0.000281344196991995,
+        "fear": 0.00023650922230444849
+      }
+    },
+    {
+      "id": "1981365222318174647",
+      "texto": "En Madrid combatimos las drogas y el acoso escolar con más ganas que nunca.\n\nPor una juventud en plenitud y libertad.\n\nComo @Topuriailia, di no al acoso escolar. Di no a las #D̶̵̶R̶̵̶O̶̵̶G̶̵̶A̶̵̶S̶̵̶.\n\n🤼 💊 https://t.co/GbXWmyZSr2",
+      "fecha": "2025-10-23 14:20:55",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 1199,
+      "retweets": 256,
+      "respuestas": 278,
+      "sentimiento": "NEU",
+      "sentimiento_confianza": 0.5836188197135925,
+      "sentimiento_scores": {
+        "NEG": 0.19128602743148804,
+        "NEU": 0.5836188197135925,
+        "POS": 0.22509512305259705
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.925395131111145,
+      "emocion_scores": {
+        "others": 0.06359454244375229,
+        "joy": 0.925395131111145,
+        "sadness": 0.001506919041275978,
+        "anger": 0.0052599599584937096,
+        "surprise": 0.0007864286308176816,
+        "disgust": 0.002632721560075879,
+        "fear": 0.0008242561598308384
+      }
+    },
+    {
+      "id": "1981293902570147850",
+      "texto": "Madrid es la mejor región de España para ser joven. https://t.co/prSF0IYrOz",
+      "fecha": "2025-10-23 09:37:31",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 2153,
+      "retweets": 408,
+      "respuestas": 1696,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.9478113055229187,
+      "sentimiento_scores": {
+        "NEG": 0.009721839800477028,
+        "NEU": 0.04246678203344345,
+        "POS": 0.9478113055229187
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9655076861381531,
+      "emocion_scores": {
+        "others": 0.9655076861381531,
+        "joy": 0.029905959963798523,
+        "sadness": 0.00045836990466341376,
+        "anger": 0.0002122341829817742,
+        "surprise": 0.00278735370375216,
+        "disgust": 0.0003393791557755321,
+        "fear": 0.000789015437476337
+      }
+    },
+    {
+      "id": "1981291712996585718",
+      "texto": "Ya que al PSOE le obsesiona las placas, le sugiero una: \n\n“Aceptamos pago en metálico”. https://t.co/xNdibzz6BD",
+      "fecha": "2025-10-23 09:28:49",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 3916,
+      "retweets": 1008,
+      "respuestas": 795,
+      "sentimiento": "NEU",
+      "sentimiento_confianza": 0.576572597026825,
+      "sentimiento_scores": {
+        "NEG": 0.37903210520744324,
+        "NEU": 0.576572597026825,
+        "POS": 0.0443953275680542
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9694439172744751,
+      "emocion_scores": {
+        "others": 0.9694439172744751,
+        "joy": 0.0010625559370964766,
+        "sadness": 0.002711500506848097,
+        "anger": 0.02186991460621357,
+        "surprise": 0.0013728025369346142,
+        "disgust": 0.0025697199162095785,
+        "fear": 0.0009695413755252957
+      }
+    },
+    {
+      "id": "1981084854264508625",
+      "texto": "La población ucraniana o la fusilada estos días a manos de Hamás no interesan tanto en España: no dividen lo mismo y por tanto, no rentan políticamente. https://t.co/Vvpkdc2s5k",
+      "fecha": "2025-10-22 19:46:50",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 7831,
+      "retweets": 2136,
+      "respuestas": 664,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.9517530798912048,
+      "sentimiento_scores": {
+        "NEG": 0.9517530798912048,
+        "NEU": 0.04390081763267517,
+        "POS": 0.0043460591696202755
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.8430125713348389,
+      "emocion_scores": {
+        "others": 0.8430125713348389,
+        "joy": 0.002887012204155326,
+        "sadness": 0.11034110933542252,
+        "anger": 0.030417529866099358,
+        "surprise": 0.0010905397357419133,
+        "disgust": 0.009903933852910995,
+        "fear": 0.0023472621105611324
+      }
+    },
+    {
+      "id": "1980974125834211781",
+      "texto": "Ya tenemos placa para la Real Casa de Correos:\n\n“Aquí, donde un socialista demócrata enterró las dos Españas, y un socialista autócrata las intenta resucitar.\n\nPero era tan torpe, que se le caducó la oportunidad…”\n\nhttps://t.co/OhqTfUsgVR",
+      "fecha": "2025-10-22 12:26:50",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 3446,
+      "retweets": 978,
+      "respuestas": 743,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.8234548568725586,
+      "sentimiento_scores": {
+        "NEG": 0.8234548568725586,
+        "NEU": 0.1623270958662033,
+        "POS": 0.014217966236174107
+      },
+      "emocion": "anger",
+      "emocion_confianza": 0.703370213508606,
+      "emocion_scores": {
+        "others": 0.1184275895357132,
+        "joy": 0.008111340925097466,
+        "sadness": 0.017241735011339188,
+        "anger": 0.703370213508606,
+        "surprise": 0.007332225330173969,
+        "disgust": 0.14319747686386108,
+        "fear": 0.002319428836926818
+      }
+    },
+    {
+      "id": "1980618519243862409",
+      "texto": "Analizamos con el alcalde de Austin el impacto de la F1 en la ciudad. \n\nEsperamos verle en septiembre en Madrid, año en el que Estados Unidos es país invitado a la #Hispanidad2026. https://t.co/2okj9awXxK",
+      "fecha": "2025-10-21 12:53:47",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 1255,
+      "retweets": 226,
+      "respuestas": 249,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.5043748021125793,
+      "sentimiento_scores": {
+        "NEG": 0.05603029951453209,
+        "NEU": 0.43959492444992065,
+        "POS": 0.5043748021125793
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9680202603340149,
+      "emocion_scores": {
+        "others": 0.9680202603340149,
+        "joy": 0.02840534783899784,
+        "sadness": 0.0009573649149388075,
+        "anger": 0.0001984160189749673,
+        "surprise": 0.0016548014245927334,
+        "disgust": 0.0002507672761566937,
+        "fear": 0.0005131858051754534
+      }
+    },
+    {
+      "id": "1980340996316819458",
+      "texto": "En The University of Texas at Austin (@UTAustin), referencia hispana, analizamos nuestra colaboración para prácticas, startups, emprendimiento e intercambios.\n\nTambién, para exponer nuestro modelo de ciudad inteligente en transporte o sanidad pública. https://t.co/XQaVyyxNiP",
+      "fecha": "2025-10-20 18:31:01",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 862,
+      "retweets": 182,
+      "respuestas": 251,
+      "sentimiento": "NEU",
+      "sentimiento_confianza": 0.5153712034225464,
+      "sentimiento_scores": {
+        "NEG": 0.04700229689478874,
+        "NEU": 0.5153712034225464,
+        "POS": 0.43762654066085815
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9913350939750671,
+      "emocion_scores": {
+        "others": 0.9913350939750671,
+        "joy": 0.006787359248846769,
+        "sadness": 0.0003499208251014352,
+        "anger": 0.0003217766061425209,
+        "surprise": 0.0006577548920176923,
+        "disgust": 0.00017572342767380178,
+        "fear": 0.0003723701520357281
+      }
+    },
+    {
+      "id": "1980309421998891507",
+      "texto": "Impulsamos el mayor laboratorio de datos e inteligencia artificial pública de Europa, junto a @Cloudera.\n\nSanidad, educación, transporte o justicia conectados para ofrecer servicios más eficientes y humanos. https://t.co/fnZ3Lg6lPr",
+      "fecha": "2025-10-20 16:25:33",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 1025,
+      "retweets": 231,
+      "respuestas": 146,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.5945533514022827,
+      "sentimiento_scores": {
+        "NEG": 0.06166995316743851,
+        "NEU": 0.3437766432762146,
+        "POS": 0.5945533514022827
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9057831168174744,
+      "emocion_scores": {
+        "others": 0.9057831168174744,
+        "joy": 0.08706348389387131,
+        "sadness": 0.0006540447939187288,
+        "anger": 0.0019046943634748459,
+        "surprise": 0.0020814272575080395,
+        "disgust": 0.0009200777858495712,
+        "fear": 0.001593247172422707
+      }
+    },
+    {
+      "id": "1979977471941308732",
+      "texto": "Todo lo mejor para nuestro campeón @Carlossainz55, embajador del Gran Premio de Fórmula 1 de España.  #USGP https://t.co/83L7BIdwYl",
+      "fecha": "2025-10-19 18:26:30",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 3558,
+      "retweets": 375,
+      "respuestas": 597,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.7378042936325073,
+      "sentimiento_scores": {
+        "NEG": 0.05501814931631088,
+        "NEU": 0.2071775645017624,
+        "POS": 0.7378042936325073
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.5527799725532532,
+      "emocion_scores": {
+        "others": 0.5527799725532532,
+        "joy": 0.4413408637046814,
+        "sadness": 0.0009781750850379467,
+        "anger": 0.0005117522669024765,
+        "surprise": 0.0024571886751800776,
+        "disgust": 0.0011025700950995088,
+        "fear": 0.0008294269209727645
+      }
+    },
+    {
+      "id": "1979866120279449615",
+      "texto": "En el Día mundial del cáncer de mama enviamos todo nuestro apoyo y cariño a las mujeres que lo sufren.\n\nEn el programa bianual 2023-2024 se realizaron 450.000 mamografías, que salvan vidas.\n\nEn la Comunidad de Madrid contamos con los mejores profesionales y tratamientos, a tu https://t.co/hpa9QEVT2O",
+      "fecha": "2025-10-19 11:04:01",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 2168,
+      "retweets": 413,
+      "respuestas": 602,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.7573522329330444,
+      "sentimiento_scores": {
+        "NEG": 0.04806690663099289,
+        "NEU": 0.19458088278770447,
+        "POS": 0.7573522329330444
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.961772084236145,
+      "emocion_scores": {
+        "others": 0.0346527136862278,
+        "joy": 0.961772084236145,
+        "sadness": 0.0015830323100090027,
+        "anger": 0.0007041381322778761,
+        "surprise": 0.0004117460921406746,
+        "disgust": 0.0005810614093206823,
+        "fear": 0.00029519692179746926
+      }
+    },
+    {
+      "id": "1979523532414418984",
+      "texto": "Acuerdo con @Cisco para proteger la información sensible de la Administración y acelerar la transformación digital de colegios, hospitales y ayuntamientos.\n\nLa Comunidad de Madrid, cada vez más segura, moderna y al servicio del ciudadano. https://t.co/kGdE8l0Dna",
+      "fecha": "2025-10-18 12:22:42",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 1145,
+      "retweets": 242,
+      "respuestas": 204,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.726306676864624,
+      "sentimiento_scores": {
+        "NEG": 0.04064490646123886,
+        "NEU": 0.2330484688282013,
+        "POS": 0.726306676864624
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.5469054579734802,
+      "emocion_scores": {
+        "others": 0.4448413848876953,
+        "joy": 0.5469054579734802,
+        "sadness": 0.000810262281447649,
+        "anger": 0.0016212479677051306,
+        "surprise": 0.0027909576892852783,
+        "disgust": 0.0012093055993318558,
+        "fear": 0.0018213315634056926
+      }
+    },
+    {
+      "id": "1979248626548244772",
+      "texto": "La Comunidad de Madrid y Amazon (AWS) firmamos un acuerdo para formar a 50.000 jóvenes y profesores de FP en Inteligencia Artificial.\n\nQueremos que puedan encontrar nuevos empleos o abrir sus propias empresas. https://t.co/Tn1Km8hKUU",
+      "fecha": "2025-10-17 18:10:19",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 1472,
+      "retweets": 318,
+      "respuestas": 204,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.5925683975219727,
+      "sentimiento_scores": {
+        "NEG": 0.043956391513347626,
+        "NEU": 0.3634752333164215,
+        "POS": 0.5925683975219727
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.931659996509552,
+      "emocion_scores": {
+        "others": 0.931659996509552,
+        "joy": 0.0625757947564125,
+        "sadness": 0.0006646986003033817,
+        "anger": 0.0010017510503530502,
+        "surprise": 0.0019219565438106656,
+        "disgust": 0.0007326527847908437,
+        "fear": 0.0014431392773985863
+      }
+    },
+    {
+      "id": "1979226472184238207",
+      "texto": "RT @ComunidadMadrid: 🔝 La Comunidad de Madrid logra el mejor registro de la última década en @LasVentas y supera el millón de espectadores.…",
+      "fecha": "2025-10-17 16:42:17",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 0,
+      "retweets": 85,
+      "respuestas": 0,
+      "sentimiento": "NEU",
+      "sentimiento_confianza": 0.4486362636089325,
+      "sentimiento_scores": {
+        "NEG": 0.10505808889865875,
+        "NEU": 0.4486362636089325,
+        "POS": 0.44630563259124756
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9653007984161377,
+      "emocion_scores": {
+        "others": 0.9653007984161377,
+        "joy": 0.022377701476216316,
+        "sadness": 0.0006093023694120347,
+        "anger": 0.0003908942162524909,
+        "surprise": 0.009812054224312305,
+        "disgust": 0.0005828512948937714,
+        "fear": 0.0009263360989280045
+      }
+    },
+    {
+      "id": "1979162695044562979",
+      "texto": "Tres hospitales madrileños lideran la excelencia sanitaria: la Fundación Jiménez Díaz revalida su Top 20 por octavo año.\n\nhttps://t.co/KKr8Ieazt9",
+      "fecha": "2025-10-17 12:28:52",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 1114,
+      "retweets": 255,
+      "respuestas": 186,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.7042960524559021,
+      "sentimiento_scores": {
+        "NEG": 0.06434420496225357,
+        "NEU": 0.23135975003242493,
+        "POS": 0.7042960524559021
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.841155469417572,
+      "emocion_scores": {
+        "others": 0.841155469417572,
+        "joy": 0.14948274195194244,
+        "sadness": 0.0007102039526216686,
+        "anger": 0.00041206536116078496,
+        "surprise": 0.005914222449064255,
+        "disgust": 0.0007966812700033188,
+        "fear": 0.0015285918489098549
+      }
+    },
+    {
+      "id": "1978819817009267141",
+      "texto": "La Comunidad de Madrid tendrá el mayor complejo judicial del mundo.\n\nTodos los juzgados y órganos jurisdiccionales de la ciudad de Madrid estarán reunidos en Valdebebas, por donde pasarán a diario 33.000 profesionales y ciudadanos. https://t.co/dZObRkVS1F",
+      "fecha": "2025-10-16 13:46:23",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 1793,
+      "retweets": 323,
+      "respuestas": 722,
+      "sentimiento": "NEU",
+      "sentimiento_confianza": 0.5069072842597961,
+      "sentimiento_scores": {
+        "NEG": 0.06153115630149841,
+        "NEU": 0.5069072842597961,
+        "POS": 0.43156152963638306
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9827277064323425,
+      "emocion_scores": {
+        "others": 0.9827277064323425,
+        "joy": 0.013665379956364632,
+        "sadness": 0.0006951410905458033,
+        "anger": 0.00043850066140294075,
+        "surprise": 0.001415463164448738,
+        "disgust": 0.0003087870718445629,
+        "fear": 0.0007490073912777007
+      }
+    },
+    {
+      "id": "1978770307423858998",
+      "texto": "Quieren que los jóvenes españoles estén agraviados, “sin futuro”, para que otros, que dicen ser “el pueblo”, les dicten como si no fueran políticos. \n\nMadrid es la mejor región en estos momentos para los jóvenes. https://t.co/JuwqqZzpeW",
+      "fecha": "2025-10-16 10:29:39",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 2047,
+      "retweets": 459,
+      "respuestas": 583,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.8561872243881226,
+      "sentimiento_scores": {
+        "NEG": 0.8561872243881226,
+        "NEU": 0.10779812186956406,
+        "POS": 0.03601469844579697
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.8958847522735596,
+      "emocion_scores": {
+        "others": 0.8958847522735596,
+        "joy": 0.0033697988837957382,
+        "sadness": 0.06431248784065247,
+        "anger": 0.030679311603307724,
+        "surprise": 0.0006647229311056435,
+        "disgust": 0.003785469103604555,
+        "fear": 0.0013035796582698822
+      }
+    },
+    {
+      "id": "1978765082969383251",
+      "texto": "Madrid es humanidad. @adavimu https://t.co/DFVImWEmzr",
+      "fecha": "2025-10-16 10:08:54",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 903,
+      "retweets": 272,
+      "respuestas": 140,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.7077329158782959,
+      "sentimiento_scores": {
+        "NEG": 0.06152767315506935,
+        "NEU": 0.23073945939540863,
+        "POS": 0.7077329158782959
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.5468257665634155,
+      "emocion_scores": {
+        "others": 0.4449291527271271,
+        "joy": 0.5468257665634155,
+        "sadness": 0.0023489249870181084,
+        "anger": 0.0012922323076054454,
+        "surprise": 0.002419245894998312,
+        "disgust": 0.0010281039867550135,
+        "fear": 0.0011564642190933228
+      }
+    },
+    {
+      "id": "1978758095682535860",
+      "texto": "Escuchando a sus señorías podemos concluir que la izquierda que hoy nos gobierna defiende la cultura de la muerte. \n\nY la pobreza. Y la tristeza. Y el apagón. https://t.co/rGB3MGvbkd",
+      "fecha": "2025-10-16 09:41:08",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 4432,
+      "retweets": 1071,
+      "respuestas": 884,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.9656934142112732,
+      "sentimiento_scores": {
+        "NEG": 0.9656934142112732,
+        "NEU": 0.029346395283937454,
+        "POS": 0.0049601709470152855
+      },
+      "emocion": "sadness",
+      "emocion_confianza": 0.9489917755126953,
+      "emocion_scores": {
+        "others": 0.011926469393074512,
+        "joy": 0.00043421765440143645,
+        "sadness": 0.9489917755126953,
+        "anger": 0.026254460215568542,
+        "surprise": 0.0003487050998955965,
+        "disgust": 0.009650928899645805,
+        "fear": 0.002393532544374466
+      }
+    },
+    {
+      "id": "1978753911885332794",
+      "texto": "Sánchez no para de mentir: aquí solo algunos ejemplos. https://t.co/6zL8lh5ojh",
+      "fecha": "2025-10-16 09:24:30",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 2982,
+      "retweets": 980,
+      "respuestas": 460,
+      "sentimiento": "NEG",
+      "sentimiento_confianza": 0.8756418824195862,
+      "sentimiento_scores": {
+        "NEG": 0.8756418824195862,
+        "NEU": 0.10500459372997284,
+        "POS": 0.019353559240698814
+      },
+      "emocion": "anger",
+      "emocion_confianza": 0.730554461479187,
+      "emocion_scores": {
+        "others": 0.10011458396911621,
+        "joy": 0.002261849818751216,
+        "sadness": 0.0031587276607751846,
+        "anger": 0.730554461479187,
+        "surprise": 0.0027645742520689964,
+        "disgust": 0.15652762353420258,
+        "fear": 0.004618111066520214
+      }
+    },
+    {
+      "id": "1978742975111827871",
+      "texto": "Tienen poderes adivinatorios. \n\nHasta el 27 de octubre no finaliza el proceso de contratación. En todo caso, todos están avalados por la OMS o la Agencia de Evaluación del Ministerio de Sanidad.\n\nhttps://t.co/V9RmvEQXFy",
+      "fecha": "2025-10-16 08:41:03",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 779,
+      "retweets": 211,
+      "respuestas": 99,
+      "sentimiento": "NEU",
+      "sentimiento_confianza": 0.8370302319526672,
+      "sentimiento_scores": {
+        "NEG": 0.13329356908798218,
+        "NEU": 0.8370302319526672,
+        "POS": 0.029676202684640884
+      },
+      "emocion": "others",
+      "emocion_confianza": 0.9948092699050903,
+      "emocion_scores": {
+        "others": 0.9948092699050903,
+        "joy": 0.0004155701317358762,
+        "sadness": 0.0011566574685275555,
+        "anger": 0.0010124559048563242,
+        "surprise": 0.0013377093710005283,
+        "disgust": 0.00031202987884171307,
+        "fear": 0.0009564596693962812
+      }
+    },
+    {
+      "id": "1978703862937624578",
+      "texto": "Enhorabuena a Juan del Val por el #PremioPlaneta2025 con su obra “Vera, una historia de amor”.\n\n¡Te deseo muchos más éxitos como este!\n\nhttps://t.co/DezzfLn69Y",
+      "fecha": "2025-10-16 06:05:38",
+      "autor_username": "IdiazAyuso",
+      "autor_nombre": "Isabel Díaz Ayuso",
+      "verificado": null,
+      "idioma": "es",
+      "likes": 1538,
+      "retweets": 181,
+      "respuestas": 246,
+      "sentimiento": "POS",
+      "sentimiento_confianza": 0.9609778523445129,
+      "sentimiento_scores": {
+        "NEG": 0.00797777995467186,
+        "NEU": 0.03104444220662117,
+        "POS": 0.9609778523445129
+      },
+      "emocion": "joy",
+      "emocion_confianza": 0.9968735575675964,
+      "emocion_scores": {
+        "others": 0.0013491318095475435,
+        "joy": 0.9968735575675964,
+        "sadness": 0.0002954444207716733,
+        "anger": 0.00018548997468315065,
+        "surprise": 0.0006612669676542282,
+        "disgust": 0.0003730494063347578,
+        "fear": 0.0002620826999191195
+      }
+    }
+  ]
+}

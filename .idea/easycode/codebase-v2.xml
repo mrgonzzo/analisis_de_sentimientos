@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/01_conteo_palabras.py;C:/Users/tarde/Desktop/ProgramacionCursoIA/analisis_de_sentimientos/analisis_de_sentimientos/02_limpieza_texto.py;C:/Users/tarde/Desktop/ProgramacionCursoIA/analisis_de_sentimientos/analisis_de_sentimientos/03_sentimiento_por_lexicon.py;C:/Users/tarde/Desktop/ProgramacionCursoIA/analisis_de_sentimientos/analisis_de_sentimientos/04_similitud_jaccard.py;C:/Users/tarde/Desktop/ProgramacionCursoIA/analisis_de_sentimientos/analisis_de_sentimientos/05_vectorizacion_y_clustering.py;C:/Users/tarde/Desktop/ProgramacionCursoIA/analisis_de_sentimientos/analisis_de_sentimientos/p1_aplicacion_textos..py" />
+  </component>
+</project>
