@@ -31,7 +31,7 @@ warnings.filterwarnings('ignore')
 # CONFIGURACIÓN
 # ============================================
 
-BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAFs45QEAAAAA3FAt%2Bt%2FAJT3xMrHq%2FrioVkjFNTA%3Dp2Y0oxrioipKDRuj0rrV3P6dxKk14VWbC0hsBiVyibdwiX9J9L"
+BEARER_TOKEN = "bbbbbbbbbbbbbbb6BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBFs45QEAAAAA3FAt%2Bt%2FAJT3xMrHq%2FrioVkjFNTA%3Dp2Y0oxrioipKDRuj0rrV3P6dxKk14VWbC0hsBiVyibdwiX9J9L"
 
 # Verificar pysentimiento
 try:
