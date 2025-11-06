@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "titulo": "Deus Ex: 279 (Impedimenta)",
+    "precio": "22,75",
+    "precio_num": 22.75,
+    "rating": "4,7 de 5 estrellas",
+    "rating_num": 4.7,
+    "num_reviews": 0,
+    "url": ""
+  },
+  {
+    "id": 2,
+    "titulo": "The Art of Deus Ex Universe",
+    "precio": "38,14",
+    "precio_num": 38.14,
+    "rating": "4,8 de 5 estrellas",
+    "rating_num": 4.8,
+    "num_reviews": 0,
+    "url": ""
+  },
+  {
+    "id": 3,
+    "titulo": "Deus Ex: Cyberanatomie d'un jeu culte",
+    "precio": "29,90",
+    "precio_num": 29.9,
+    "rating": "Sin valoracion",
+    "rating_num": 0,
+    "num_reviews": 0,
+    "url": ""
+  },
+  {
+    "id": 4,
+    "titulo": "Square Enix Deus Ex: Mankind Divided D1 Edition",
+    "precio": "12,90",
+    "precio_num": 12.9,
+    "rating": "4,3 de 5 estrellas",
+    "rating_num": 4.3,
+    "num_reviews": 0,
+    "url": ""
+  },
+  {
+    "id": 5,
+    "titulo": "MOSGDBV Gorras Personalizable para Hombres y Mujeres, Gorra Beisbol Personalizada, CREA tu Logo, Gorra Personalizadas",
+    "precio": "5,99",
+    "precio_num": 5.99,
+    "rating": "4,4 de 5 estrellas",
+    "rating_num": 4.4,
+    "num_reviews": 0,
+    "url": ""
+  }
+]

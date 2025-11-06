@@ -47,13 +47,8 @@ class AmazonScraper:
             for i, elem in enumerate(elements[:cantidad]):
                 try:
                     # Título
-                    titulo_elem = await elem.query_selector('h2.a-size-base-plus.a-text-normal')
-                    if titulo_elem:
-                        titulo = await titulo_elem.get_attribute('aria-label')
-                        if titulo and titulo.startswith("Anuncio patrocinado: "):
-                            titulo = titulo.replace("Anuncio patrocinado: ", "")
-                    else:
-                        titulo = "Sin titulo"
+                    titulo_elem = await elem.query_selector('h2.a-text-normal span')
+                    titulo = await titulo_elem.inner_text() if titulo_elem else "Sin titulo"
 
                     # Precio
                     precio_elem = await elem.query_selector('.a-price-whole')
@@ -82,11 +77,13 @@ class AmazonScraper:
                         rating_num = 0
 
                     # Número de reseñas
-                    reviews_elem = await elem.query_selector('span.a-size-base.s-underline-text')
+                    reviews_elem = await elem.query_selector('span[aria-label*="estrellas"]')
                     if reviews_elem:
-                        reviews_text = await reviews_elem.inner_text()
+                        reviews_text = await reviews_elem.get_attribute('aria-label')
                         try:
-                            num_reviews = int(''.join(filter(str.isdigit, reviews_text)))
+                            # Extraer número de reseñas del texto como "4.5 de 5 estrellas 1.234"
+                            parts = reviews_text.split()
+                            num_reviews = int(''.join(c for c in parts[-1] if c.isdigit()))
                         except:
                             num_reviews = 0
                     else:
