@@ -1,0 +1,32 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs y cachés
+*.log
+*.sqlite3
+
+# Configuración local
+*.env
+.DS_Store
+Thumbs.db
+*.gon
+
+# Dependencias y paquetes
+*.egg-info/
+dist/
+build/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Carpetas de pruebas o datos
+tests/
+data/

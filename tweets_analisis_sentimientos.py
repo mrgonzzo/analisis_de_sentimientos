@@ -31,7 +31,8 @@ warnings.filterwarnings('ignore')
 # CONFIGURACIÓN
 # ============================================
 
-BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAFs45QEAAAAAkgg3yGJ6MZvii43DNpsV3OhvzTA%3DyxJjXF10uejOR40PE70QUCUHcy2LOAmPD7exZhMyJH72vENT4G"
+BEARER_TOKEN = "Your Bearer Token here"
+
 
 # Verificar pysentimiento
 try:
