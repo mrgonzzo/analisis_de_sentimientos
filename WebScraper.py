@@ -10,24 +10,27 @@ from playwright.async_api import async_playwright
 import asyncio
 
 
-class AmazonScraper:
+class web_scraper:
     def __init__(self):
         self.productos = []
         self.seleccionados = []
 
-    async def scrape_productos(self, busqueda, cantidad=20):
-        """Scrapea productos de Amazon"""
-        print(f"\n[BUSQUEDA] Buscando: {busqueda}")
+    async def scrape_productos(self,tienda, busqueda, cantidad=20):
+        """Scrapea productos de una web de ventas"""
+        print(f"\n[BUSQUEDA] Buscando: {busqueda} en {tienda}")
         print(f"[INFO] Cantidad: {cantidad} productos\n")
 
         async with async_playwright() as p:
             # Abrir navegador
             browser = await p.chromium.launch(headless=False)
-            page = await browser.new_page()
+            context = await browser.new_context(
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+            page = await context.new_page()
 
-            # Ir a Amazon
-            url = f"https://www.amazon.es/s?k={busqueda.replace(' ', '+')}"
-            await page.goto(url, timeout=60000)
+            url = f"https://www.{tienda}/s?k={busqueda.replace(' ', '+')}"
+
+            print("URL generada:", url)
+            await page.goto(url, timeout=90000)  # 90 segundos
             print("[OK] Pagina cargada")
 
             # Aceptar cookies
@@ -38,16 +41,31 @@ class AmazonScraper:
                 pass
 
             # Esperar productos
-            await page.wait_for_selector('[data-component-type="s-search-result"]', timeout=10000)
+            try:
+                await page.wait_for_selector('div.s-result-item', timeout=60000)
+            except:
+                print("[ERROR] No se encontraron productos. Verifica el término de búsqueda.")
+                return []
 
             # Extraer productos
-            elements = await page.query_selector_all('[data-component-type="s-search-result"]')
+            elements = await page.query_selector_all('div.s-result-item')
             print(f"[INFO] Encontrados {len(elements)} elementos\n")
 
             for i, elem in enumerate(elements[:cantidad]):
                 try:
                     # Título
-                    titulo_elem = await elem.query_selector('h2.a-text-normal span')
+                    if tienda == "temu.com":
+                        # Título
+                        titulo_elem = await elem.query_selector('h2.title')
+                        # Precio
+                        precio_elem = await elem.query_selector('.price')
+                        # Rating
+                        rating_elem = await elem.query_selector('.rating')
+                    else:
+                        match tienda:
+                            case "amazon.es":
+                                titulo_elem = await elem.query_selector('h2.a-text-normal span')
+
                     titulo = await titulo_elem.inner_text() if titulo_elem else "Sin titulo"
 
                     # Precio
@@ -267,13 +285,17 @@ class AmazonScraper:
 async def main():
     """Función principal"""
     print("\n" + "="*80)
-    print("SCRAPER INTERACTIVO DE AMAZON")
+    print("SCRAPER INTERACTIVO DE webs")
     print("="*80)
 
     # Configuración
-    busqueda = input("\nQue quieres buscar? : ").strip()
+    # Ir a la tienda
+    print(f"pregunto por la tienda")
+    tienda = input("¿En qué tienda quieres buscar? (por ejemplo: amazon.es o temu.com): ").strip()
+    print(f"pregunto por el producto")
+    busqueda = input("\n¿Qué quieres buscar?: ").strip()
     if not busqueda:
-        busqueda = "videojuegos"
+        busqueda = "articulos"
 
     try:
         cantidad = int(input("Cuantos productos quieres ver? [20]: ").strip() or "20")
@@ -281,10 +303,10 @@ async def main():
         cantidad = 20
 
     # Crear scraper
-    scraper = AmazonScraper()
+    scraper = web_scraper()
 
     # Scrapear
-    await scraper.scrape_productos(busqueda, cantidad)
+    await scraper.scrape_productos(tienda, busqueda, cantidad)
 
     # Mostrar productos
     scraper.mostrar_productos()
